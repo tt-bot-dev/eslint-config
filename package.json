@@ -1,0 +1,27 @@
+{
+  "name": "@tt-bot-dev/eslint-config",
+  "version": "1.0.0",
+  "description": "The ESLint configuration used across all tt-bot-dev repositories.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tt-bot-dev/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "lint"
+  ],
+  "author": "TTtie <me@tttie.cz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tt-bot-dev/eslint-config/issues"
+  },
+  "homepage": "https://github.com/tt-bot-dev/eslint-config#readme",
+  "dependencies": {
+    "eslint": "^6.8.0"
+  }
+}
