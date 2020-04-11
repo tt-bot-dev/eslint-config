@@ -1,6 +1,6 @@
 {
   "name": "@tt-bot-dev/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The ESLint configuration used across all tt-bot-dev repositories.",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "url": "https://github.com/tt-bot-dev/eslint-config/issues"
   },
   "homepage": "https://github.com/tt-bot-dev/eslint-config#readme",
-  "dependencies": {
+  "peerDependencies": {
     "eslint": "^6.8.0"
   },
   "private": false
