@@ -1,6 +1,6 @@
 {
   "name": "@tt-bot-dev/eslint-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The ESLint configuration used across all tt-bot-dev repositories.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tt-bot-dev/eslint-config.git"
+    "url": "git+https://owo.codes/tt.bot/frameworks/eslint-config.git"
   },
   "keywords": [
     "eslint",
@@ -18,11 +18,11 @@
   "author": "TTtie <me@tttie.cz>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tt-bot-dev/eslint-config/issues"
+    "url": "https://owo.codes/tt.bot/frameworks/eslint-config/-/issues"
   },
-  "homepage": "https://github.com/tt-bot-dev/eslint-config#readme",
+  "homepage": "https://owo.codes/tt.bot/frameworks/eslint-config",
   "peerDependencies": {
-    "eslint": "^6.8.0"
+    "eslint": "^7.12.1"
   },
   "private": false
 }
