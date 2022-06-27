@@ -1,1 +1,2 @@
-module.exports = require("./.eslintrc.json");
+"use strict";
+module.exports = require("./.eslintrc.js");
