@@ -1,8 +1,9 @@
 {
   "name": "@tt-bot-dev/eslint-config",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "The ESLint configuration used across all tt-bot-dev repositories.",
-  "main": "index.js",
+  "main": "eslint.config.mjs",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,7 +23,12 @@
   },
   "homepage": "https://owo.codes/tt.bot/frameworks/eslint-config",
   "peerDependencies": {
-    "eslint": "^8.5.0"
+    "eslint": "^8.57.0"
   },
-  "private": false
+  "private": false,
+  "dependencies": {
+    "@eslint/js": "^8.57.0",
+    "@stylistic/eslint-plugin": "^1.7.0",
+    "globals": "^14.0.0"
+  }
 }
